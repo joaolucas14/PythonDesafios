@@ -1,0 +1,6 @@
+n = int(input('Informe um número de 0 a 9999: '))
+div = str(n)
+print('Unidades: {}'.format(div[3]))
+print('Dezenas: {}'.format(div[2]))
+print('Centenas: {}'.format(div[1]))
+print('Milhares: {}'.format(div[0]))

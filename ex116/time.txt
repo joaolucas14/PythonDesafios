@@ -1,0 +1,6 @@
+Joao;18;30
+Lucas;22;57
+Silva;25;43
+Arrascaeta;28;87
+Gabigol;25;98
+Everton ribeiro;32;78
